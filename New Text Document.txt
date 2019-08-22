@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<title>HARIKRISH </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>HARIKRISH</b> Architects</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="/w3images/architect.jpg" alt="Architecture" width="1500" height="800">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>BR</b></span> <span class="w3-hide-small w3-text-light-grey">Architects</span></h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- Project Section -->
+  <div class="w3-container w3-padding-32" id="projects">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">DESIGNER</div>
+        <img src="http://www.adhamdannaway.com/wp-content/themes/dannaway/images/adham-dannaway-designer-coder.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">ARTIST</div>
+        <img src="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.0-9/24993087_1820087548282875_8501531811926223447_n.jpg?_nc_cat=105&_nc_oc=AQm4ixFQLsdmmtnxdlFuaYFq0yA6aZW5YD0b0GR1w9EOl3aUm1gqZ_uFF6llNxsBk2Q&_nc_ht=scontent.fdel11-1.fna&oh=f3fa3d322f2b5d9a33799eb16e988200&oe=5E128D63" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">RESEARCH IDEAS</div>
+        <img src="https://keirstenbrager.tech/wp-content/uploads/2018/03/qtq80-trCN4O-1600x1219.jpeg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">WEB DESIGN</div>
+        <img src="http://asimsaadi.com/wp-content/uploads/hd-web-design-web-software-designing-virtuvian-ventures.jpg" alt="House" alt="House" style="width:100%">
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">GUIDANCE ADVISOR</div>
+        <img src="https://moneyinc.com/wp-content/uploads/2018/08/Financial-Advisor.jpg" alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">ENGINEERING</div>
+        <img src="https://images.click.in/classifieds/images/164/25_04_2018_14_38_20_93e84f02337caa720ca203d648e9b7a7_0xuabz67yl.jpg" alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">WEB DEVELOPMENT</div>
+        <img src="https://ak0.picdn.net/shutterstock/videos/26162030/thumb/12.jpg" alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">PHOTOSHOP</div>
+        <img src="https://static1.squarespace.com/static/54643542e4b0097b957d6418/t/5b18d6d46d2a73891c77090a/1528354534227/click+on+play+button+in+photoshop" alt="House" style="width:99%">
+      </div>
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
+    <p>Students are the change of future world.We are creating the best website as you like and everthing we shown in this website.Our office is located in delhi.Further details contact in the description below.
+    </p>
+  </div>
+
+  <div class="w3-row-pad w3-colur">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.0-9/57172585_2096237877334506_3239035838088085504_n.jpg?_nc_cat=111&_nc_oc=AQle_FmKLhXshmjq0xaAgTgAV4G3bfEYhGGk2lR3AkrzLc-F0mMU_v3NPiSDKEIIzsY&_nc_ht=scontent.fmaa2-2.fna&oh=0c34797548f65148db86902cbed35305&oe=5D7B35B8" alt="John" style="width:100%">
+      <h1>HARIKRISH</h1>
+      <p class="w3-opacity">CEO & Founder</p>
+      <p>HARIKRISHNA P, also known as HARIKRISH, is an Indian SRM UNIVERSITY B.Tech(MECH) student in DELHI NCR CAMPUS. He is a website developer,artist,designer.</p>
+       <p class="w6-opacity">LANGUAGES KNOWN:</p>
+      <p class="w3-opacity">ENGLISH,GERMAN,TAMIL</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://scontent.fdel5-1.fna.fbcdn.net/v/t1.0-9/48370107_2101161669906643_636836439023157248_n.jpg?_nc_cat=103&_nc_oc=AQlYDlKqDgGTpPHL_EOAsozk9CIIvLaQrqi_P0tZemkCU0CdWqxqd4Y9KjmPpbhFG5k&_nc_ht=scontent.fdel5-1.fna&oh=5bf3d5d5f28c58e03f2281db272e46b7&oe=5E13817E" alt="Jane" style="width:100%">
+      <h1>DEEPAK VS</h1>
+      <p class="w3-opacity">CEO & Co-Founder</p>
+      <p>DEEPAK VS, is an Indian SRM UNIVERSITY B.Tech(CSE) student in DELHI NCR CAMPUS. He is a website developer.</p>
+      <p class="w6-opacity">LANGUAGES KNOWN:</p>
+      <p class="w3-opacity">ENGLISH,FRENCH,TAMIL,TELUGU</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    
+  </div>
+
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-32" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
+    <p>Lets get in touch and talk about your next project.</p>
+    <form action="/action_page.php" target="_blank">
+      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
+      <button class="w3-button w3-black w3-section" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </form>
+  </div>
+  
+<!-- Image of location/map -->
+<div class="w3-container">
+  <img src="https://www.webascender.com/wp-content/uploads/team-1.jpg" class="w3-image" style="width:100%">
+</div>
+<div class="row">
+    <div class="social col-12">
+        <span class="Link"><a href="https://www.facebook.com/profile.php?id=100008449422450" class="Link-content" target="_blank"><img alt="facebook logo - 
+Update Cover Photo
+Hari Krish" class="footer-socialIcon" src="https://sep.yimg.com/yf/nrp/image/facebook.png"></a></span>
+        <span class="Link"><a href="" class="Link-content" target="_blank"><img alt="twitter logo - " class="footer-socialIcon" src="https://sep.yimg.com/yf/nrp/image/twitter.png"></a></span>
+        <span class="Link"><a href="" class="Link-content" target="_blank"><img alt="tumblr logo - " class="footer-socialIcon" src="https://sep.yimg.com/yf/nrp/image/tumblr.png"></a></span>
+        <span class="Link"><a href="https://www.instagram.com/hari_krish_shil/" class="Link-content" target="_blank"><img alt="instagram logo - hari_krish_shil" class="footer-socialIcon" src="https://sep.yimg.com/yf/nrp/image/instagram.png"></a></span> 
+        </div>
+        </div>
+
+<!-- End page content -->
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <p>Powered by <a href="https://www.facebook.com/profile.php?id=100008449422450" title="W3.CSS" target="_blank" class="w3-hover-text-green">KRISH</a></p>
+  
+  <h5>2019 Copyright (HARIKRISH Architects) All Rights Reserved</h5>
+</footer>
+
+</body>
+</html>
+
